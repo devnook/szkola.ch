@@ -22,7 +22,7 @@ title: Stowarzyszenie Rodziców przy Szkole Polskiej im. Marii Skłodowskiej-Cur
 email: devnook@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Strona Stowarzyszenia Rodziców przy Szkole Polskiej im. Marii Skłodowskiej-Curie w Zurychu
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/szkola.ch" # the subpath of your site, e.g. /blog
 url: "szkola.ch" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  devnook
