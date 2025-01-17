@@ -29,7 +29,7 @@ github_username:  devnook
 
 # Build settings
 # theme: jekyll-theme-minimal
-remote_theme: minimal-mistakes
+remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
