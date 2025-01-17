@@ -28,7 +28,8 @@ url: "szkola.ch" # the base hostname & protocol for your site, e.g. http://examp
 github_username:  devnook
 
 # Build settings
-theme: minima
+# theme: jekyll-theme-minimal
+remote_theme: minimal-mistakes
 plugins:
   - jekyll-feed
 
